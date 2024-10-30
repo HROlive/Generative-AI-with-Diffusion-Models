@@ -29,4 +29,4 @@ More detailed information and links for the course can be found on the [course w
 
 The certificate for the course can be found below:
 
-- ["Generative AI with Diffusion Models" - NVIDIA Deep Learning Institute]() (Issued On: October 2024)
+- ["Generative AI with Diffusion Models" - NVIDIA Deep Learning Institute](https://learn.nvidia.com/certificates?id=Lp5VeHMnQKOLdmOZSkfWCA) (Issued On: October 2024)
